@@ -1,0 +1,5 @@
+
+
+Invalid page fault
+General Register: 0000 | Instruction Register: PD30 | Instruction Counter: 02 | Counter: 0 | Page Table Register: 13
+
